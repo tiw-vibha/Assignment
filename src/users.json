@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "role": "Admin",
+      "email": "Sincere@april.biz",
+      "address": {
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "role": "User",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "role": "Admin",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "role": "User",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "role": "Admin",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "role": "Admin",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "role": "Admin",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "role": "User",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "role": "User",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "role": "Admin",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "suit": "2333",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    }
+  ]
+}
